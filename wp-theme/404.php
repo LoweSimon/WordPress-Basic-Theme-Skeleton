@@ -1,15 +1,15 @@
 <?php get_header(); ?>
 <section>
     <div class="wrapper">
-        <article class="content px-3 py-5 p-md-5">
+        <section class="content px-3 py-5 p-md-5">
 	    
             <h1>Page Not Found</h1>
-
-            <?php
+	
+	    <?php
                 get_search_form();
             ?>
 			
-	    </article>
+	</section>
 
     </div>
 </section>
